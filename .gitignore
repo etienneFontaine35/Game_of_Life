@@ -1,4 +1,5 @@
-images/bastou.jpg
-images/guillaume_console.jpg
-images/guillaume.jpg
+# images/bastou.jpg
+# images/guillaume_console.jpg
+# images/guillaume.jpg
+images/*
 GameOfLife
